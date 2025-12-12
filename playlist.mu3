@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="LCI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/lci-fr.png" tvg-id="LCI.fr" group-title="France",LCI
+https://live-lci-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIxMzUuMjMyLjIwMS4yMzQiLCJjbWNkIjoiIiwiZXhwIjoxNzY1NTg5MTQ1LCJnaWQiOiJlMjE4OWQ2ZS04NGQzLTQxYjQtOTZmMS0xMTczYmE2ODZlNjAiLCJpYXQiOjE3NjU1NzQ3NDUsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MjAwMDAwMCwic3RlbSI6Ii9vdXQvdjEvOTE3YWFkNGZhNzJmNDJmN2JhN2Y0ODYyMjZmNTRiYzQvbGNpLWNtYWYiLCJzdWIiOiJlMjE4OWQ2ZS04NGQzLTQxYjQtOTZmMS0xMTczYmE2ODZlNjAifQ.ESWHjGHogIQFzFn3j8RkKHVNKpfRvzWmOtkOq1ds6ys/out/v1/917aad4fa72f42f7ba7f486226f54bc4/lci-cmaf/index_13_0.m3u8
+
+#EXTINF:-1 tvg-name="BFMTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfmtv-fr.png" tvg-id="BFMTV.fr" group-title="France",BFMTV
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+
+#EXTINF:-1 tvg-name="RDI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/rdi-ca.png" tvg-id="RDI.ca" group-title="Canada",RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+
+#EXTINF:-1 tvg-name="CBC News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cbc-news-ca.png" tvg-id="CBCNews.ca" group-title="Canada",CBC News
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
